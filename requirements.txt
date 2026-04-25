@@ -1,0 +1,3 @@
+openai
+datasets==2.19.0
+python-dotenv
